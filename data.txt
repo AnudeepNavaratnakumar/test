@@ -1,0 +1,3 @@
+data modification may happen
+code will be deployed automatically
+jenkins jobs have configured internally
